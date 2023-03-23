@@ -8,10 +8,11 @@
 ## Konfigurasi Mikrotik & Linux Server
 
 1. Setting IP & Interface
-2. Setting default gateway 10.252.108.212
-3. Setting dhcp server via dhcp setup 
-4. Sambungkan PC atau laptop ke jaringan, cek IP address pastikan IP add dari PC mendapatkan IP add dari dhcp server
-5. Power up
+   <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/IP_add.jpg" height="250" /> 
+3. Setting default gateway 10.252.108.212
+4. Setting dhcp server via dhcp setup 
+5. Sambungkan PC atau laptop ke jaringan, cek IP address pastikan IP add dari PC mendapatkan IP add dari dhcp server
+6. Power up
    nyalakan VM, pastikan konfigurasi jaringan FRIDGE
    pastikan mendapatkan IP add dari dhcp server
 6. Konfigurasi IP VM menjadi static
