@@ -22,7 +22,7 @@
 <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/dhcp_setup6.jpg" />
 <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/dhcp_setup7.jpg" />
 6. Sambungkan PC atau laptop ke jaringan, cek IP address pastikan IP add dari PC mendapatkan IP add dari dhcp server
-<img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/chech_ip%20a.jpg" />
+<img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/chech_ip%20a.jpg" height="150" />
 8. Power up
    nyalakan VM, pastikan konfigurasi jaringan FRIDGE
    pastikan mendapatkan IP add dari dhcp server
@@ -44,6 +44,7 @@
 <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/hostname.jpg" />  
 
 (ini gatau taro mana)
+
 <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/net_connect_details.jpg" />
 <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/restart_net.jpg" />
 <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/restart_systemd.jpg" />
